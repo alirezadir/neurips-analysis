@@ -1,0 +1,118 @@
+Self-Critical Reasoning for Robust Visual Question Answering
+A Tensorized Transformer for Language Modeling
+ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks
+Self-attention with Functional Time Representation Learning
+Large Memory Layers with Product Keys
+Queer in AI (QAI) Affinity Workshop
+On the equivalence between graph isomorphism testing and function approximation with GNNs
+Defending Against Neural Fake News
+When does label smoothing help?
+Hierarchical Decision Making by Generating and Following Natural Language Instructions
+Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks
+Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations
+Unified Language Model Pre-training for Natural Language Understanding and Generation
+A Game Theoretic Approach to Class-wise Selective Rationalization
+Graph Structured Prediction Energy Networks
+Drill-down: Interactive Retrieval of Complex Scenes using Natural Language Queries
+On the Downstream Performance of Compressed Word Embeddings
+Are Sixteen Heads Really Better than One?
+Document Intelligence
+Imitation-Projected Programmatic Reinforcement Learning
+Neural Machine Translation with Soft Prototype
+Chasing Ghosts: Instruction Following as Bayesian State Tracking
+"How can this Paper get in?" - A game to advise researchers when writing for a top AI conference
+RUBi: Reducing Unimodal Biases for Visual Question Answering
+XLNet: Generalized Autoregressive Pretraining for Language Understanding
+Coda: An End-to-End Neural Program Decompiler
+Program Transformations for ML
+Neural Shuffle-Exchange Networks - Sequence Processing in O(n log n) Time
+Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation
+Episodic Memory in Lifelong Language Learning
+From System 1 Deep Learning to System 2 Deep Learning
+Assessing Social and Intersectional Biases in Contextualized Word Representations
+Compositional De-Attention Networks
+Levenshtein Transformer
+Memory Efficient Adaptive Optimization
+Anti-efficient encoding in emergent communication
+Deep Leakage from Gradients
+Mixtape: Breaking the Softmax Bottleneck Efficiently
+Ordered Memory
+DetNAS: Backbone Search for Object Detection
+Differential Privacy Has Disparate Impact on Model Accuracy
+GENO -- Optimization for Classical Machine Learning Made Fast and Easy
+Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models
+L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise
+Improving Textual Network Learning with Variational Homophilic Embeddings
+Reverse engineering recurrent networks for sentiment classification reveals line attractor dynamics
+Policy Learning for Fairness in Ranking
+Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulations.
+Emergent Communication: Towards Natural Language
+AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification
+Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks
+A Composable Specification Language for Reinforcement Learning Tasks
+Adaptively Aligned Image Captioning via Adaptive Attention Time
+Slice-based Learning: A Programming Model for Residual Learning in Critical Data Slices
+Imitation Learning and its Application to Natural Language Generation
+Can Unconditional Language Models Recover Arbitrary Sentences?
+SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems
+Spherical Text Embedding
+SPoC: Search-based Pseudocode to Code
+Deep Equilibrium Models
+Compositional generalization through meta sequence-to-sequence learning
+On the Convergence Rate of Training Recurrent Neural Networks
+Compositional Plan Vectors
+Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes
+You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle
+EMC2: Energy Efficient Machine Learning and Cognitive Computing (5th edition)
+Differentiable Convex Optimization Layers
+MLSys: Workshop on Systems for ML
+Visually Grounded Interaction and Language
+Sequence Modeling with Unconstrained Generation Order
+Training Language GANs from Scratch
+Text-Based Interactive Recommendation via Constraint-Augmented Reinforcement Learning
+Interpreting and improving natural-language processing (in machines) with  natural language-processing (in the brain)
+Online Normalization for Training Neural Networks
+Dual Variational Generation for Low Shot Heterogeneous Face Recognition
+Implicitly learning to reason in first-order logic
+GENO -- GENeric Optimization for Classical Machine Learning
+Invariance and identifiability issues for word embeddings
+Implicit Regularization in Deep Matrix Factorization
+DATA: Differentiable ArchiTecture Approximation
+Language as an Abstraction for Hierarchical Deep Reinforcement Learning
+Towards modular and programmable architecture search
+Kernelized Bayesian Softmax for Text Generation
+Bayesian Layers: A Module for Neural Network Uncertainty
+Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation
+Agency + Automation: Designing Artificial Intelligence into Interactive Systems
+Visualizing and Measuring the Geometry of BERT
+A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation
+What the Vec? Towards Probabilistically Grounded Embeddings
+exBERT: A Visual Analysis Tool to Explain BERT's Learned Representations
+Hierarchical Optimal Transport for Document Representation
+Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains
+Paraphrase Generation with Latent Bag of Words
+Learning Deterministic Weighted Automata with Queries and Counterexamples
+Can SGD Learn Recurrent Neural Networks with Provable Generalization?
+Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products
+Heterogeneous Graph Learning for Visual Commonsense Reasoning
+Ouroboros: On Accelerating Training of Transformer-Based Language Models
+Fast Structured Decoding for Sequence Models
+Inducing brain-relevant bias in natural language processing models
+GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
+Glyce: Glyph-vectors for Chinese Character Representations
+Novel positional encodings to enable tree-based transformers
+Controllable Text-to-Image Generation
+Cross-lingual Language Model Pretraining
+Discrete Flows: Invertible Generative Models of Discrete Data
+Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers
+Kernel-Based Approaches for Sequence Modeling: Connections to Neural Methods
+Program Synthesis and Semantic Parsing with Learned Code Idioms
+Visual Concept-Metaconcept Learning
+Comparing Unsupervised Word Translation Methods Step by Step
+Fast and Accurate Stochastic Gradient Estimation
+Biases for Emergent Communication in Multi-agent Reinforcement Learning
+Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model
+The third Conversational AI workshop – today's practice and tomorrow's potential
+Ease-of-Teaching and Language Structure from Emergent Communication
+Context and Compositionality in Biological and Artificial Neural Systems
+AllenNLP Interpret: Explaining Predictions of NLP Models

@@ -1,0 +1,192 @@
+Quadratic Video Interpolation
+Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness 
+Efficiently Estimating Erdos-Renyi Graphs with Node Differential Privacy
+Graph Representation Learning
+Learning Nearest Neighbor Graphs from Noisy Distance Samples
+On the equivalence between graph isomorphism testing and function approximation with GNNs
+DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters
+Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks
+Rethinking Kernel Methods for Node Representation Learning on Graphs
+Multiagent Evaluation under Incomplete Information
+Diffusion Improves Graph Learning
+Adaptive GNN for Image Analysis and Editing
+Stability of Graph Scattering Transforms
+Reflection Separation using a Pair of Unpolarized and Polarized Images
+Deep Structured Prediction for Facial Landmark Detection
+Approximation Ratios of Graph Neural Networks for Combinatorial Problems
+Structured Graph Learning Via Laplacian Spectral Constraints
+Hyperbolic Graph Neural Networks
+Graph Structured Prediction Energy Networks
+Smoothing Structured Decomposable Circuits
+Region-specific Diffeomorphic Metric Mapping
+Bipartite expander Hopfield networks as self-decoding high-capacity error correcting codes
+Near-Optimal Reinforcement Learning in Dynamic Treatment Regimes
+Variance Reduction in Bipartite Experiments through Correlation Clustering
+Revisiting the Bethe-Hessian: Improved Community Detection in Sparse Heterogeneous Graphs
+Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization
+Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer
+GOT: An Optimal Transport framework for Graph comparison
+Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks
+Exploring Algorithmic Fairness in Robust Graph Covering Problems
+Sampling Networks and Aggregate Simulation for Online POMDP Planning
+Solving graph compression via optimal transport
+Discrete Object Generation with Reversible Inductive Construction
+Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees
+CiML 2019: Machine Learning Competitions for All
+Correlation clustering with local objectives
+Exact Combinatorial Optimization with Graph Convolutional Neural Networks
+Identification of Conditional Causal Effects under Markov Equivalence
+A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning
+Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations
+Efficient Rematerialization for Deep Networks
+Program Transformations for ML
+GNNExplainer: Generating Explanations for Graph Neural Networks
+From System 1 Deep Learning to System 2 Deep Learning
+Graph-based Discriminators: Sample Complexity and Expressiveness
+Optimizing Generalized PageRank Methods for Seed-Expansion Community Detection
+Neural Networks with Cheap Differential Operators
+Embedding Symbolic Knowledge into Deep Networks
+Exact inference in structured prediction
+An Accelerated Decentralized Stochastic Proximal Algorithm for Finite Sums
+Probabilistic Logic Neural Networks for Reasoning
+The Thermodynamic Variational Objective
+STREETS: A Novel Camera Network Dataset for Traffic Flow
+McDiarmid-Type Inequalities for Graph-Dependent Variables and Stability Bounds
+Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition
+PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph
+A state-space model for inferring effective connectivity of latent neural dynamics from simultaneous EEG/fMRI
+A Graph Theoretic Additive Approximation of Optimal Transport
+Efficiently Learning Fourier Sparse Set Functions
+Fast structure learning with modular regularization
+Conditional Structure Generation through Graph Variational Generative Adversarial Nets
+Streamlit, a new app framework for machine learning tools
+Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models
+MonoForest framework for tree ensemble analysis
+Neural Taskonomy: Inferring the Similarity of Task-Derived Representations from Brain Activity
+Compiler Auto-Vectorization with Imitation Learning
+Learning Transferable Graph Exploration
+Workshop on Federated Learning for Data Privacy and Confidentiality
+Bat-G net: Bat-inspired High-Resolution 3D Image Reconstruction using Ultrasonic Echoes
+Latent distance estimation for random geometric graphs
+End to end learning and optimization on graphs
+Sample Efficient Active Learning of Causal Trees
+Search on the Replay Buffer: Bridging Planning and Reinforcement Learning
+Möbius Transformation for Fast Inner Product Search on Graph
+Power analysis of knockoff filters for correlated designs
+Multi-task Learning for Aggregated Data using Gaussian Processes
+Stein Variational Gradient Descent With Matrix-Valued Kernels
+Recurrent Space-time Graph Neural Networks
+Discovering Neural Wirings
+A Condition Number for Joint Optimization of Cycle-Consistent Networks
+Variational Graph Recurrent Neural Networks
+Spherical Text Embedding
+Optimal Statistical Rates for Decentralised Non-Parametric Regression with Linear Speed-Up
+Understanding Attention and Generalization in Graph Neural Networks
+A Model to Search for Synthesizable Molecules
+Differentially Private Bayesian Linear Regression
+The Functional Neural Process
+Efficient Graph Generation with Graph Recurrent Attention Networks
+Sets and Partitions
+Combining Generative and Discriminative Models for Hybrid Inference
+Combinatorial Bayesian Optimization using the Graph Cartesian Product
+Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models
+Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes
+U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging
+Write, Execute, Assess: Program Synthesis with a REPL
+D-VAE: A Variational Autoencoder for Directed Acyclic Graphs
+A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning
+Machine Learning Meets Single-Cell Biology: Insights and Challenges
+Training Image Estimators without Image Ground Truth
+muSSP: Efficient Min-cost Flow Algorithm for Multi-object Tracking
+Learning Local Search Heuristics for Boolean Satisfiability
+Certifiable Robustness to Graph Perturbations
+Individual Regret in Cooperative Nonstochastic Multi-Armed Bandits
+Band-Limited Gaussian Processes: The Sinc Kernel
+Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules
+Hyper-Graph-Network Decoders for Block Codes
+Structure Learning with Side Information: Sample Complexity
+Blind Super-Resolution Kernel Estimation using an Internal-GAN
+Learning to Propagate for Graph Meta-Learning
+G2SAT: Learning to Generate SAT Formulas
+Neural Diffusion Distance for Image Segmentation
+Direct Estimation of Differential Functional Graphical Models
+Fast Convergence of Belief Propagation to Global Optima: Beyond Correlation Decay 
+Zero-Shot Semantic Segmentation
+Guided Similarity Separation for Image Retrieval
+Powerset Convolutional Neural Networks
+Neuropathic Pain Diagnosis Simulator for Causal Discovery Algorithm Evaluation
+DeepWave: A Recurrent Neural-Network for Real-Time Acoustic Imaging
+Flexible Modeling of Diversity with Strongly Log-Concave Distributions
+Neural Relational Inference with Fast Modular Meta-learning
+Globally Optimal Learning for Structured Elliptical Losses
+Hyperbolic Graph Convolutional Neural Networks
+Efficient Identification in Linear Structural Causal Models with Instrumental Cutsets
+Learning Erdos-Renyi Random Graphs via Edge Detecting Queries
+Connections Between Mirror Descent, Thompson Sampling and the Information Ratio
+Expressive power of tensor-network factorizations for probabilistic modeling
+Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions
+Towards modular and programmable architecture search
+Provably Powerful Graph Networks
+Bandits with Feedback Graphs and Switching Costs
+Fast Decomposable Submodular Function Minimization using Constrained Total Variation
+Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology
+Universal Invariant and Equivariant Graph Neural Networks
+Deep imitation learning for molecular inverse problems
+DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs
+Semi-Implicit Graph Variational Auto-Encoders
+N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules
+KerGM: Kernelized Graph Matching
+Approximating the Permanent by Sampling from Adaptive Partitions
+Counting the Optimal Solutions in Graphical Models
+A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation
+HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs
+Learning by Abstraction: The Neural State Machine
+What the Vec? Towards Probabilistically Grounded Embeddings
+Faster width-dependent algorithm for mixed packing and covering LPs
+Manifold-regression to predict from MEG/EEG brain signals without source modeling
+A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening
+Spectral Modification of Graphs for Improved Spectral Clustering
+Quaternion Knowledge Graph Embeddings
+Graph Normalizing Flows
+Exploring Unexplored Tensor Network Decompositions for Convolutional Neural Networks
+A Flexible Generative Framework for Graph-based Semi-supervised Learning
+Learning Generalizable Device Placement Algorithms for Distributed Machine Learning
+Globally optimal score-based learning of directed acyclic graphs in high-dimensions
+Heterogeneous Graph Learning for Visual Commonsense Reasoning
+Graph-Based Semi-Supervised Learning with Non-ignorable Non-response
+Adaptive Influence Maximization with Myopic Feedback
+On Differentially Private Graph Sparsification and Applications
+Beyond Vector Spaces: Compact Data Representation as Differentiable Weighted Graphs
+Retrosynthesis Prediction with Conditional Graph Logic Network
+Bayesian Joint Estimation of Multiple Graphical Models
+Inducing brain-relevant bias in natural language processing models
+Amortized Bethe Free Energy Minimization for Learning MRFs
+Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs
+Online Prediction of Switching Graph Labelings with Cluster Specialists
+Multi-relational Poincaré Graph Embeddings
+Constraint-based Causal Structure Learning with Consistent Separating Sets
+Probabilistic Watershed: Sampling all spanning forests for seeded segmentation and semi-supervised learning
+DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node
+Control What You Can: Intrinsically Motivated Task-Planning Agent
+Breaking the Glass Ceiling for Embedding-Based Classifiers for Large Output Spaces
+Selecting causal brain features with a single conditional independence test per feature
+Ultrametric Fitting by Gradient Descent
+Glyce: Glyph-vectors for Chinese Character Representations
+Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers
+Scalable Gromov-Wasserstein Learning for Graph Partitioning and Matching
+Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks
+Wasserstein Weisfeiler-Lehman Graph Kernels
+Robustness Verification of Tree-based Models
+Learning metrics for persistence-based summaries and applications for graph classification
+Inherent Tradeoffs in Learning Fair Representations
+Graph Agreement Models for Semi-Supervised Learning
+Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
+Learning Hierarchical Priors in VAEs
+Likelihood-Free Overcomplete ICA and Applications In Causal Discovery
+Generative Models for Graph-Based Protein Design
+(Nearly) Efficient Algorithms for the Graph Matching Problem on Correlated Random Graphs
+Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels
+An Algorithm to Learn Polytree Networks with Hidden Nodes
+Bayesian Learning of Sum-Product Networks
+Graph Transformer Networks
+vGraph: A Generative Model for Joint Community Detection and Node Representation Learning

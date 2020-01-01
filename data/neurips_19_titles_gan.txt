@@ -1,0 +1,187 @@
+Scalable Deep Generative Relational Model with High-Order Node Dependence
+On Fenchel Mini-Max Learning
+Learning Disentangled Representation for Robust Person Re-identification
+On Adversarial Mixup Resynthesis
+A Primal-Dual link between GANs and Autoencoders
+Exponential Family Estimation via Adversarial Dynamics Embedding
+Variational Structured Semantic Inference for Diverse Image Captioning
+MintNet: Building Invertible Neural Networks with Masked Convolutions
+Optimal Transport for Machine Learning
+Learning from Label Proportions with Generative Adversarial Networks
+The spiked matrix model with generative priors
+ A New Distribution on the Simplex with Auto-Encoding Applications
+MarginGAN: Adversarial Training in Semi-Supervised Learning
+Global Guarantees for Blind Demodulation with Generative Priors
+Unified Language Model Pre-training for Natural Language Understanding and Generation
+On Tractable Computation of Expected Predictions
+Multivariate Triangular Quantile Maps for Novelty Detection
+Neural Multisensory Scene Inference
+Convolution with even-sized kernels and symmetric padding
+Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection
+Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization
+Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation
+A Prior of a Googol Gaussians: a Tensor Ring Induced Prior for Generative Models
+A Normative Theory for Causal Inference and Bayes Factor Computation in Neural Circuits
+Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors
+Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks
+Face Reconstruction from Voice using Generative Adversarial Networks
+Tensor Monte Carlo: Particle Methods for the GPU era
+Discrete Object Generation with Reversible Inductive Construction
+Variational Denoising Network: Toward Blind Noise Modeling and Removal
+The Implicit Metropolis-Hastings Algorithm
+Perception as generative reasoning: structure, causality, probability
+Adaptive Density Estimation for Generative Models
+HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models
+Mutually Regressive Point Processes
+ODE2VAE: Deep generative second order ODEs with Bayesian neural networks
+Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation
+Graph-based Discriminators: Sample Complexity and Expressiveness
+Deep Generative Video Compression
+Planning in entropy-regularized Markov decision processes and games
+Conditional Independence Testing using Generative Adversarial Networks
+Reliable training and estimation of variance networks
+Semi-supervisedly Co-embedding Attributed Networks
+Direct Optimization through $\arg \max$ for Discrete Variational Auto-Encoder
+Exact inference in structured prediction
+Generative Well-intentioned Networks
+Online Continual Learning with Maximal Interfered Retrieval
+Addressing Sample Complexity in Visual Tasks Using HER and Hallucinatory GANs
+The Thermodynamic Variational Objective
+Rethinking Generative Mode Coverage: A Pointwise Guaranteed Approach
+MaCow: Masked Convolutional Generative Flow
+Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models
+Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections
+Explicitly disentangling image content from translation and rotation with spatial-VAE
+PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph
+Improving Textual Network Learning with Variational Homophilic Embeddings
+Latent Ordinary Differential Equations for Irregularly-Sampled Time Series
+Conditional Structure Generation through Graph Variational Generative Adversarial Nets
+Generative Modeling by Estimating Gradients of the Data Distribution
+Latent distance estimation for random geometric graphs
+Improved Precision and Recall Metric for Assessing Generative Models
+MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
+Quantum Wasserstein Generative Adversarial Networks
+Co-Generation with GANs using AIS based HMC
+A Domain Agnostic Measure for Monitoring and Evaluating GANs
+Information Theory and Machine Learning
+Invertible Convolutional Flow
+Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulations.
+NeurIPS Workshop on Machine Learning for Creativity and Design 3.0
+Integrating Markov processes with structural causal modeling enables counterfactual inference in complex systems
+Reducing Noise in GAN Training with Variance Reduced Extragradient
+Multi-marginal Wasserstein GAN
+Implicit Generation and Modeling with Energy Based Models
+Adversarial Self-Defense for Cycle-Consistent GANs
+Can Unconditional Language Models Recover Arbitrary Sentences?
+Spherical Text Embedding
+Learning with Temporal Point Processes
+Large Scale Adversarial Representation Learning
+A Model to Search for Synthesizable Molecules
+Emergence of Object Segmentation in Perturbed Generative Models
+Deep Random Splines for Point Process Intensity Estimation of Neural Population Data
+Efficient Graph Generation with Graph Recurrent Attention Networks
+Defending Neural Backdoors via Generative Distribution Modeling
+The Point Where Reality Meets Fantasy: Mixed Adversarial Generators for Image Splice Detection
+Residual Flows for Invertible Generative Modeling
+Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations
+Combining Generative and Discriminative Models for Hybrid Inference
+Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models
+Unsupervised Keypoint Learning for Guiding Class-Conditional Video Prediction
+Implicit Posterior Variational Inference for Deep Gaussian Processes
+Explicit Disentanglement of Appearance and Perspective in Generative Models
+D-VAE: A Variational Autoencoder for Directed Acyclic Graphs
+Copulas as High-Dimensional Generative Models: Vine Copula Autoencoders
+Don't Blame the ELBO! A Linear VAE Perspective on Posterior Collapse
+Integer Discrete Flows and Lossless Compression
+Learning Distributions Generated by One-Layer ReLU Networks
+Mining GOLD Samples for Conditional GANs
+BehaveNet: nonlinear embedding and Bayesian neural decoding of behavioral videos
+Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model
+Adversarial Fisher Vectors for Unsupervised Representation Learning
+Modeling Tabular data using Conditional GAN
+Almost Horizon-Free Structure-Aware Best Policy Identification with a Generative Model
+Sequence Modeling with Unconstrained Generation Order
+Likelihood Ratios for Out-of-Distribution Detection
+Flow-based Image-to-Image Translation with Feature Disentanglement
+Training Language GANs from Scratch
+Discriminator optimal transport
+Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules
+Blind Super-Resolution Kernel Estimation using an Internal-GAN
+Sequential Neural Processes
+Dancing to Music
+DppNet: Approximating Determinantal Point Processes with Deep Networks
+ETNet: Error Transition Network for Arbitrary Style Transfer
+Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis
+G2SAT: Learning to Generate SAT Formulas
+Inverting Deep Generative models, One layer at a time
+vGraph: A Generative Model for Joint Community Detection and Node Representation Learning
+Neural Spline Flows
+Few-shot Video-to-Video Synthesis
+Surfing: Iterative Optimization Over Incrementally Trained Deep Networks
+Nonparametric Density Estimation & Convergence Rates for GANs under Besov IPM Losses
+Zero-shot Learning via Simultaneous Generating and Learning
+Classification Accuracy Score for Conditional Generative Models
+Unsupervised State Representation Learning in Atari
+Incremental Scene Synthesis
+Cross-Domain Transferability of Adversarial Perturbations
+Quality Aware Generative Adversarial Networks
+A Solvable High-Dimensional Model of GAN
+Energy-Inspired Models: Learning with Sampler-Induced Distributions
+Meta-Surrogate Benchmarking for Hyperparameter Optimization
+Bridging Game Theory and Deep Learning
+The continuous Bernoulli: fixing a pervasive error in variational autoencoders
+Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting
+NAOMI: Non-Autoregressive Multiresolution Sequence Imputation
+Semi-Implicit Graph Variational Auto-Encoders
+Poincaré Recurrence, Cycles and Spurious Equilibria in Gradient-Descent-Ascent for Non-Convex Non-Concave Zero-Sum Games
+Are Disentangled Representations Helpful for Abstract Visual Reasoning?
+Asymptotic Guarantees for Learning Generative Models with the Sliced-Wasserstein Distance
+Better Transfer Learning with Inferred Successor Maps
+Large-scale optimal transport map estimation using projection pursuit
+Unconstrained Monotonic Neural Networks
+Multi-mapping Image-to-Image Translation via Learning Disentanglement
+Manifold-regression to predict from MEG/EEG brain signals without source modeling
+Generating Diverse High-Fidelity Images with VQ-VAE-2
+Geometry-Aware Neural Rendering
+High Fidelity Video Prediction with Large Stochastic Recurrent Neural Networks
+Limiting Extrapolation in Linear Approximate Value Iteration
+Positional Normalization
+Graph Normalizing Flows
+Paraphrase Generation with Latent Bag of Words
+Learning Nonsymmetric Determinantal Point Processes
+First Order Motion Model for Image Animation
+A Flexible Generative Framework for Graph-based Semi-supervised Learning
+Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning
+Learn, Imagine and Create: Text-to-Image Generation from Prior Knowledge
+Time-series Generative Adversarial Networks
+Icebreaker: Element-wise Efficient Information Acquisition with a Bayesian Deep Latent Gaussian Model
+Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test
+Multi-objects Generation with Amortized Structural Regularization
+Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game
+Amortized Bethe Free Energy Minimization for Learning MRFs
+Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections
+Knowledge Extraction with No Observable Data
+Generalized Sliced Wasserstein Distances
+Learning GANs and Ensembles Using Discrepancy
+Shaping Belief States with Generative Environment Models for RL
+Controllable Text-to-Image Generation
+Cross-lingual Language Model Pretraining
+Discrete Flows: Invertible Generative Models of Discrete Data
+Characterizing Bias in Classifiers using Generative Models
+Variational Temporal Abstraction
+BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling
+On the convergence of single-call stochastic extra-gradient methods
+Program Synthesis and Semantic Parsing with Learned Code Idioms
+Practical and Consistent Estimation of f-Divergences
+Learning Stable Deep Dynamics Models
+Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion
+Progressive Augmentation of GANs
+Learning Hierarchical Priors in VAEs
+Generative Models for Graph-Based Protein Design
+Compression with Flows via Local Bits-Back Coding
+Recurrent Registration Neural Networks for Deformable Image Registration
+Continuous Hierarchical Representations with Poincaré Variational Auto-Encoders 
+Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition
+Twin Auxilary Classifiers GAN
+Distributional Policy Optimization: An Alternative Approach for Continuous Control
+Fast and Provable ADMM for Learning with Generative Priors

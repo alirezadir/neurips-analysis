@@ -1,0 +1,110 @@
+Online sampling from log-concave distributions
+Computational Separations between Sampling and Optimization
+An Adaptive Empirical  Bayesian Method for Sparse Deep Learning
+Random Tessellation Forests
+ A New Distribution on the Simplex with Auto-Encoding Applications
+Function-Space Distributions over Kernels
+Beyond Confidence Regions: Tight Bayesian Ambiguity Sets for Robust MDPs
+Multi-objective Bayesian optimisation with preferences over objectives
+Dichotomize and Generalize: PAC-Bayesian Binary Activated Deep Neural Networks
+Sparse Variational Inference: Bayesian Coresets from Scratch
+Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection
+Random deep neural networks are biased towards simple functions
+GOT: An Optimal Transport framework for Graph comparison
+Learning Auctions with Robust Incentive Guarantees
+Projected Stein Variational Newton: A Fast and Scalable Bayesian Inference Method in High Dimensions
+A Normative Theory for Causal Inference and Bayes Factor Computation in Neural Circuits
+Scalable Global Optimization via Local Bayesian Optimization
+Stochastic Proximal Langevin Algorithm: Potential Splitting and Nonasymptotic Rates
+Meta Learning with Relational Information for Short Sequences
+Correlation Priors for Reinforcement Learning
+Variational Denoising Network: Toward Blind Noise Modeling and Removal
+Streaming Bayesian Inference for Crowdsourced Classification
+Chasing Ghosts: Instruction Following as Bayesian State Tracking
+Alleviating Label Switching with Optimal Transport
+Mutually Regressive Point Processes
+Efficient Deep Approximation of GMMs
+ODE2VAE: Deep generative second order ODEs with Bayesian neural networks
+Bayesian Optimization under Heavy-tailed Payoffs
+Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning
+Low-Complexity Nonparametric Bayesian Online Prediction with Universal Guarantees
+Variational Bayes under Model Misspecification
+A Simple Baseline for Bayesian Uncertainty in Deep Learning
+Offline Contextual Bayesian Optimization
+Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference
+A state-space model for inferring effective connectivity of latent neural dynamics from simultaneous EEG/fMRI
+Workshop on Federated Learning for Data Privacy and Confidentiality
+Stochastic Gradient Hamiltonian Monte Carlo Methods with Recursive Variance Reduction
+Hyperparameter Learning via Distributional Transfer
+Sample Efficient Active Learning of Causal Trees
+Can you trust your model's uncertainty?  Evaluating predictive uncertainty under dataset shift
+Bayesian Optimization with Unknown Search Space
+Stein Variational Gradient Descent With Matrix-Valued Kernels
+Scalable Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data
+Learning Bayesian Networks with Low Rank Conditional Probability Tables
+Learning with Temporal Point Processes
+Regret Bounds for Thompson Sampling in Episodic Restless Bandit Problems
+Kernel quadrature with DPPs
+Perceiving the arrow of time in autoregressive motion
+Differentially Private Bayesian Linear Regression
+The Functional Neural Process
+Fast-rate PAC-Bayes Generalization Bounds via Shifted Rademacher Processes
+Variational Bayesian Optimal Experimental Design
+Deep Learning with Bayesian Principles
+Combinatorial Bayesian Optimization using the Graph Cartesian Product
+Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models
+BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning
+AGEM: Solving Linear Inverse Problems via Deep Priors and Sampling
+Variational Bayesian Decision-making for Continuous Utilities
+Dynamic Ensemble Modeling Approach to Nonstationary Neural Decoding in Brain-Computer Interfaces
+D-VAE: A Variational Autoencoder for Directed Acyclic Graphs
+Poisson-Randomized Gamma Dynamical Systems
+Safe Exploration for Interactive Machine Learning
+Convergence Guarantees for Adaptive Bayesian Quadrature Methods
+BehaveNet: nonlinear embedding and Bayesian neural decoding of behavioral videos
+Modeling Tabular data using Conditional GAN
+Copula-like Variational Inference
+Propagating Uncertainty in Reinforcement Learning via Wasserstein Barycenters
+GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series
+Band-Limited Gaussian Processes: The Sinc Kernel
+Debiased Bayesian inference for average treatment effects
+Bayesian Batch Active Learning as Sparse Subset Approximation
+Universal Boosting Variational Inference
+Scalable inference of topic evolution via models for latent geometric structures
+Max-value Entropy Search for Multi-Objective Bayesian Optimization
+Uncertainty-based Continual Learning with Adaptive Regularization
+Kernelized Bayesian Softmax for Text Generation
+A Bayesian Theory of Conformity in Collective Decision Making
+Bayesian Layers: A Module for Neural Network Uncertainty
+Integrating Bayesian and Discriminative Sparse Kernel Machines for  Multi-class Active Learning
+Thompson Sampling with Information Relaxation Penalties
+Reconciling meta-learning and continual learning with online mixtures of tasks
+Learning Theory (Definitions, Theorems, Proofs, etc.)
+Nonzero-sum Adversarial Hypothesis Testing Games
+Accurate Uncertainty Estimation and Decomposition in Ensemble Learning
+Parameter elimination in particle Gibbs sampling
+A Flexible Generative Framework for Graph-based Semi-supervised Learning
+Optimistic Distributionally Robust Optimization for Nonparametric Likelihood Approximation
+Icebreaker: Element-wise Efficient Information Acquisition with a Bayesian Deep Latent Gaussian Model
+Addressing Failure Prediction by Learning Model Confidence
+Bayesian Joint Estimation of Multiple Graphical Models
+Approximate Inference Turns Deep Networks into Gaussian Processes
+Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections
+PAC-Bayes Un-Expected Bernstein Inequality
+Differentially Private Markov Chain Monte Carlo
+Cost Effective Active Search
+PAC-Bayes under potentially heavy tails
+Meta Architecture Search
+Bayesian Deep Learning
+Statistical Model Aggregation via Parameter Matching
+Practical Two-Step Lookahead Bayesian Optimization
+Thompson Sampling for Multinomial Logit Contextual Bandits
+Characterizing Bias in Classifiers using Generative Models
+Practical Deep Learning with Bayesian Principles
+Rethinking the CSC Model for Natural Images
+Scalable Bayesian dynamic covariance modeling with variational Wishart and inverse Wishart processes
+Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
+Approximate Bayesian Inference for a Mechanistic Model of Vesicle Release at a Ribbon Synapse
+An Algorithm to Learn Polytree Networks with Hidden Nodes
+Bayesian Learning of Sum-Product Networks
+Importance Weighted Hierarchical Variational Inference

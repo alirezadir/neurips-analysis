@@ -1,0 +1,171 @@
+Learning from Bad Data via Generation
+Adversarial Examples Are Not Bugs, They Are Features
+Learning Disentangled Representation for Robust Person Re-identification
+On Adversarial Mixup Resynthesis
+An Adaptive Empirical  Bayesian Method for Sparse Deep Learning
+A Primal-Dual link between GANs and Autoencoders
+Exponential Family Estimation via Adversarial Dynamics Embedding
+Learning from Label Proportions with Generative Adversarial Networks
+Adversarial training for free!
+Learning to Confuse: Generating Training Time Adversarial Data with Auto-Encoder
+ A New Distribution on the Simplex with Auto-Encoding Applications
+MarginGAN: Adversarial Training in Semi-Supervised Learning
+Detecting Overfitting via Adversarial Examples
+A Game Theoretic Approach to Class-wise Selective Rationalization
+Zero-shot Knowledge Transfer via Adversarial Belief Matching
+Model Compression with Adversarial Robustness: A Unified Optimization Framework
+Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components
+Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection
+Accurate, reliable and fast robustness evaluation
+Deep Generalized Method of Moments for Instrumental Variable Analysis
+Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation
+A Prior of a Googol Gaussians: a Tensor Ring Induced Prior for Generative Models
+Outlier-robust estimation of a sparse linear model using $\ell_1$-penalized Huber's $M$-estimator
+Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks
+Face Reconstruction from Voice using Generative Adversarial Networks
+Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training
+Multi-source Domain Adaptation for Semantic Segmentation
+Convergence of Adversarial Training in Overparametrized Neural Networks
+Approximate Feature Collisions in Neural Nets
+Invariance-inducing regularization using worst-case transformations suffices to boost accuracy and spatial robustness
+The Implicit Metropolis-Hastings Algorithm
+On Robustness to Adversarial Examples and Polynomial Optimization
+Beyond the Single Neuron Convex Barrier for Neural Network Certification
+Why Can't I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition
+Adaptive Density Estimation for Generative Models
+HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models
+Graph-based Discriminators: Sample Complexity and Expressiveness
+Online EXP3 Learning in Adversarial Bandits with Delayed Feedback
+Conditional Independence Testing using Generative Adversarial Networks
+Large Scale Markov Decision Processes with Changing Rewards
+Provably robust boosted decision stumps and trees against adversarial attacks
+Unsupervised Object Segmentation by Redrawing
+Machine Learning with Guarantees
+Lower Bounds on Adversarial Robustness from Optimal Transport
+Learning from brains how to regularize machines
+Functional Adversarial Attacks
+PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph
+Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness
+Conditional Structure Generation through Graph Variational Generative Adversarial Nets
+Generative Modeling by Estimating Gradients of the Data Distribution
+Adversarial Robustness through Local Linearization
+Improved Precision and Recall Metric for Assessing Generative Models
+Robustness to Adversarial Perturbations in Learning from Incomplete Data
+Quantum Wasserstein Generative Adversarial Networks
+Co-Generation with GANs using AIS based HMC
+MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
+A Domain Agnostic Measure for Monitoring and Evaluating GANs
+Provable Certificates for Adversarial Examples: Fitting a Ball in the Union of Polytopes
+Preventing Gradient Attenuation in Lipschitz Constrained Convolutional Networks
+Self-Routing Capsule Networks
+Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning
+PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation
+Reducing Noise in GAN Training with Variance Reduced Extragradient
+Multi-marginal Wasserstein GAN
+Implicit Generation and Modeling with Energy Based Models
+On Relating Explanations and Adversarial Examples
+Adversarial Self-Defense for Cycle-Consistent GANs
+Partially Encrypted Deep Learning using Functional Encryption
+Large Scale Adversarial Representation Learning
+A Fourier Perspective on Model Robustness in Computer Vision
+Learning about an exponential amount of conditional distributions
+Emergence of Object Segmentation in Perturbed Generative Models
+Defending Neural Backdoors via Generative Distribution Modeling
+The Point Where Reality Meets Fantasy: Mixed Adversarial Generators for Image Splice Detection
+Prior-Free Dynamic Auctions with Low Regret Buyers
+Outlier-Robust High-Dimensional Sparse Estimation via Iterative Filtering
+You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle
+ZO-AdaMM: Zeroth-Order Adaptive Momentum Method for Black-Box Optimization
+Unsupervised Keypoint Learning for Guiding Class-Conditional Video Prediction
+Implicit Posterior Variational Inference for Deep Gaussian Processes
+Fooling Neural Network Interpretations via Adversarial Model Manipulation
+Adversarial Training and Robustness for Multiple Perturbations
+Copulas as High-Dimensional Generative Models: Vine Copula Autoencoders
+A Convex Relaxation Barrier to Tight Robustness Verification of Neural Networks
+Certifiable Robustness to Graph Perturbations
+Mining GOLD Samples for Conditional GANs
+Metric Learning for Adversarial Robustness
+Adversarial Fisher Vectors for Unsupervised Representation Learning
+Modeling Tabular data using Conditional GAN
+Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers
+Training Language GANs from Scratch
+Multivariate Distributionally Robust Convex Regression under Absolute Error Loss
+Discriminator optimal transport
+A Geometric Perspective on Optimal Representations for Reinforcement Learning
+Dancing to Music
+Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis
+A New Defense Against Adversarial Images: Turning a Weakness into a Strength
+Efficient online learning with kernels for adversarial large scale problems
+Few-shot Video-to-Video Synthesis
+Nonparametric Density Estimation & Convergence Rates for GANs under Besov IPM Losses
+Computing Linear Restrictions of Neural Networks
+Adversarial Music: Real world Audio Adversary against Wake-word Detection System
+Classification Accuracy Score for Conditional Generative Models
+Connections Between Mirror Descent, Thompson Sampling and the Information Ratio
+Cross-Domain Transferability of Adversarial Perturbations
+Quality Aware Generative Adversarial Networks
+Equipping Experts/Bandits with Long-term Memory
+Bandits with Feedback Graphs and Switching Costs
+Bridging Game Theory and Deep Learning
+Improving Black-box Adversarial Attacks with a Transfer-based Prior
+Policy Poisoning in Batch Reinforcement Learning and Control
+Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting
+NAOMI: Non-Autoregressive Multiresolution Sequence Imputation
+Poincaré Recurrence, Cycles and Spurious Equilibria in Gradient-Descent-Ascent for Non-Convex Non-Concave Zero-Sum Games
+Asymptotic Guarantees for Learning Generative Models with the Sliced-Wasserstein Distance
+Policy Evaluation with Latent Confounders via Optimal Balance
+Image Synthesis with a Single (Robust) Classifier
+Certifying Geometric Robustness of Neural Networks
+Multi-mapping Image-to-Image Translation via Learning Disentanglement
+Unlabeled Data Improves Adversarial Robustness
+Generating Diverse High-Fidelity Images with VQ-VAE-2
+Contextual Bandits with Cross-Learning
+Nonzero-sum Adversarial Hypothesis Testing Games
+Distinguishing Distributions When Samples Are Strategically Transformed
+Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning
+DETOX: A Redundancy-based Framework for Faster and More Robust Gradient Aggregation
+Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks
+Learn, Imagine and Create: Text-to-Image Generation from Prior Knowledge
+Time-series Generative Adversarial Networks
+Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers
+Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test
+On the Hardness of Robust Classification
+On the Optimality of Perturbations in Stochastic and Adversarial Multi-armed Bandit Problems
+Solving a Class of Non-Convex Min-Max Games Using Iterative First Order Methods
+Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game
+Reverse KL-Divergence Training of Prior Networks: Improved Uncertainty and Adversarial Robustness
+Learning Latent Process from High-Dimensional Event Sequences via Efficient Sampling
+DM2C: Deep Mixed-Modal Clustering
+A Little Is Enough: Circumventing Defenses For Distributed Learning
+Learning GANs and Ensembles Using Discrepancy
+Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy
+Certified Adversarial Robustness with Additive Noise
+Theoretical Limits of Pipeline Parallel Optimization and Application to Distributed Deep Learning
+Are Labels Required for Improving Adversarial Robustness?
+Controllable Text-to-Image Generation
+Cross-Modal Learning with Adversarial Samples
+Online-Within-Online Meta-Learning
+Characterizing Bias in Classifiers using Generative Models
+Theoretical evidence for adversarial robustness through randomization
+Error Correcting Output Codes Improve Probability Estimation and Adversarial Robustness of Deep Neural Networks
+Shared Visual Representations in Human and Machine Intelligence
+BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling
+On the convergence of single-call stochastic extra-gradient methods
+Dying Experts: Efficient Algorithms with Optimal Regret Bounds
+Online Markov Decoding: Lower Bounds and Near-Optimal Approximation Algorithms
+Learning with Rich Experience: Integration of Learning Paradigms
+Comparing Unsupervised Word Translation Methods Step by Step
+Robustness Verification of Tree-based Models
+Theoretical Analysis of Adversarial Learning: A Minimax Approach
+Controlling Neural Level Sets
+Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty
+Logarithmic Regret for Online Control
+ResNets Ensemble via the Feynman-Kac Formalism to Improve Natural and Robust Accuracies
+Inherent Tradeoffs in Learning Fair Representations
+Disentangling Influence: Using disentangled representations to audit model predictions
+Progressive Augmentation of GANs
+Likelihood-Free Overcomplete ICA and Applications In Causal Discovery
+Subspace Attack: Exploiting Promising Subspaces for Query-Efficient Black-box Attacks
+Attribution-Based Confidence Metric For Deep Neural Networks
+Twin Auxilary Classifiers GAN
+Fast and Provable ADMM for Learning with Generative Priors

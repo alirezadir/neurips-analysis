@@ -1,0 +1,204 @@
+Characterizing the Exact Behaviors of Temporal Difference Learning Algorithms Using Markov Jump Linear System Theory
+Efficient Smooth Non-Convex Stochastic Compositional Optimization via Stochastic Recursive Gradient Descent
+Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for Reinforcement Learning
+Synthetic Control
+Multiagent Evaluation under Incomplete Information
+Importance Resampling for Off-policy Prediction
+Hierarchical Reinforcement Learning with Advantage-Based Auxiliary Rewards
+Fast Efficient Hyperparameter Tuning for Policy Gradient Methods
+Learning Data Manipulation for Augmentation and Weighting
+Using a Logarithmic Mapping to Enable Lower Discount Factors in Reinforcement Learning
+Beyond Confidence Regions: Tight Bayesian Ambiguity Sets for Robust MDPs
+Multi-objective Bayesian optimisation with preferences over objectives
+Learning Mean-Field Games
+Near-Optimal Reinforcement Learning in Dynamic Treatment Regimes
+A neurally plausible model learns successor representations in partially observable environments
+Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation
+Sampling Networks and Aggregate Simulation for Online POMDP Planning
+Finite-time Analysis of Approximate Policy Iteration for the Linear Quadratic Regulator
+Finding Friend and Foe in Multi-Agent Games
+Imitation-Projected Programmatic Reinforcement Learning
+Scalable Global Optimization via Local Bayesian Optimization
+Constrained Reinforcement Learning Has Zero Duality Gap
+Divergence-Augmented Policy Optimization
+Correlation Priors for Reinforcement Learning
+Regression Planning Networks
+Chasing Ghosts: Instruction Following as Bayesian State Tracking
+Reconciling λ-Returns with Experience Replay
+Exact Combinatorial Optimization with Graph Convolutional Neural Networks
+A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning
+Mo' States Mo' Problems: Emergency Stop Mechanisms from Observation
+Robust exploration in linear quadratic reinforcement learning 
+Random Path Selection for Continual Learning
+From System 1 Deep Learning to System 2 Deep Learning
+Planning in entropy-regularized Markov decision processes and games
+Large Scale Markov Decision Processes with Changing Rewards
+Wasserstein Dependency Measure for Representation Learning
+Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck
+Sample-Efficient Deep Reinforcement Learning via Episodic Backward Update
+Trust Region-Guided Proximal Policy Optimization
+Park: An Open Platform for Learning-Augmented Computer Systems
+Pure Exploration with Multiple Correct Answers
+Regret Minimization for Reinforcement Learning by Evaluating the Optimal Bias Function
+Fully Parameterized Quantile Function for Distributional Reinforcement Learning
+Addressing Sample Complexity in Visual Tasks Using HER and Hallucinatory GANs
+On the Utility of Learning about Humans for Human-AI Coordination
+Continual Unsupervised Representation Learning
+Learner-aware Teaching: Inverse Reinforcement Learning with Preferences and Constraints
+Curriculum-guided Hindsight Experience Replay
+Variance Reduced Policy Evaluation with Smooth Function Approximation
+Planning with Goal-Conditioned Policies
+Regularizing Trajectory Optimization with Denoising Autoencoders
+Learning Transferable Skills
+Learning Transferable Graph Exploration
+When to use parametric models in reinforcement learning?
+Metalearned Neural Memory
+Non-Asymptotic Pure Exploration by Solving Games
+Depth-First Proof-Number Search with Heuristic Edge Cost and Application to Chemical Synthesis Planning
+Explicit Planning for Efficient Exploration in Reinforcement Learning
+Search on the Replay Buffer: Bridging Planning and Reinforcement Learning
+Budgeted Reinforcement Learning in Continuous State Space
+Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning
+Learning Reward Machines for Partially Observable Reinforcement Learning
+Unsupervised Learning of Object Keypoints for Perception and Control
+Abstract Reasoning with Distracting Features
+Meta-Inverse Reinforcement Learning with Probabilistic Context Variables
+NeurIPS Workshop on Machine Learning for Creativity and Design 3.0
+MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies
+A Composable Specification Language for Reinforcement Learning Tasks
+Imitation Learning and its Application to Natural Language Generation
+Modelling the Dynamics of Multiagent Q-Learning in Repeated Symmetric Games: a Mean Field Theoretic Approach
+Learning with Temporal Point Processes
+Learning Machines can Curl - Adaptive Deep Reinforcement Learning enables the robot Curly to win against human players in an icy world
+Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction
+SMILe: Scalable Meta Inverse Reinforcement Learning through Context-Conditional Policies
+A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning
+Causal Confusion in Imitation Learning
+F1/10: An open-source 1/10th scale platform for autonomous racing and reinforcement learning
+RUDDER: Return Decomposition for Delayed Rewards
+Uniform Error Bounds for Gaussian Process Regression with Application to Safe Control
+Deep Learning with Bayesian Principles
+Exploration via Hindsight Goal Generation
+Provably Efficient Q-Learning with Low Switching Cost
+Learning Robust Options by Conditional Value at Risk Optimization
+Learning Fairness in Multi-Agent Systems
+Non-Asymptotic Gap-Dependent Regret Bounds for Tabular MDPs
+Provably Efficient Q-learning with Function Approximation via Distribution Shift Error Checking Oracle
+Real Neurons & Hidden Units: future directions at the intersection of neuroscience and AI
+Convergent Policy Optimization for Safe Reinforcement Learning
+Towards Interpretable Reinforcement Learning Using Attention Augmented Agents
+Visually Grounded Interaction and Language
+Real-Time Reinforcement Learning
+Safe Exploration for Interactive Machine Learning
+Learning Local Search Heuristics for Boolean Satisfiability
+VIREL: A Variational Inference Framework for Reinforcement Learning
+Almost Horizon-Free Structure-Aware Best Policy Identification with a Generative Model
+DAC: The Double Actor-Critic Architecture for Learning Options
+Propagating Uncertainty in Reinforcement Learning via Wasserstein Barycenters
+Neural Temporal-Difference Learning Converges to Global Optima
+A Unified Bellman Optimality Principle Combining Reward Maximization and Empowerment
+Non-Cooperative Inverse Reinforcement Learning
+Text-Based Interactive Recommendation via Constraint-Augmented Reinforcement Learning
+Provably Global Convergence of Actor-Critic: A Case for Linear Quadratic Regulator with Ergodic Cost
+Adaptive Temporal-Difference Learning for Policy Evaluation with Per-State Uncertainty Estimates
+Policy Continuation with Hindsight Inverse Dynamics
+Policy Optimization Provably Converges to Nash Equilibria in Zero-Sum Linear Quadratic Games
+A Geometric Perspective on Optimal Representations for Reinforcement Learning
+Online Stochastic Shortest Path with Bandit Feedback and Unknown Transition Function
+Discovery of Useful Questions as Auxiliary Tasks
+Learning from Trajectories via Subgoal Discovery
+Learning to Perform Local Rewriting for Combinatorial Optimization
+Two Time-scale Off-Policy TD Learning: Non-asymptotic Analysis over Markovian Samples
+NAT: Neural Architecture Transformer for Accurate and Compact Architectures
+Robust Multi-agent Counterfactual Prediction
+Off-Policy Evaluation via Off-Policy Classification
+Goal-conditioned Imitation Learning
+Learning Multiple Markov Chains via Adaptive Allocation
+Unsupervised Curricula for Visual Meta-Reinforcement Learning
+No-Press Diplomacy: Modeling Multi-Agent Gameplay
+Privacy-Preserving Q-Learning with Functional Noise in Continuous Spaces
+Biological and Artificial Reinforcement Learning
+Worst-Case Regret Bounds for Exploration via Randomized Value Functions
+Unsupervised State Representation Learning in Atari
+Uncertainty-based Continual Learning with Adaptive Regularization
+Language as an Abstraction for Hierarchical Deep Reinforcement Learning
+Multi-View Reinforcement Learning
+Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning
+Distributional Reward Decomposition for Reinforcement Learning
+ Value Propagation for Decentralized Networked Deep Multi-agent  Reinforcement Learning
+RL Social @ NeurIPS 2019
+Policy Poisoning in Batch Reinforcement Learning and Control
+A Bayesian Theory of Conformity in Collective Decision Making
+LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning
+Keeping Your Distance: Solving Sparse Reward Tasks Using Self-Balancing Shaped Rewards
+Reinforcement Learning with Convex Constraints 
+Deep Reinforcement Learning
+MAVEN: Multi-Agent Variational Exploration
+On the Correctness and Sample Complexity of Inverse Reinforcement Learning
+Thompson Sampling with Information Relaxation Penalties
+A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation
+SCC: Deep Reinforcement Learning Agent plays StarCraft II at competitive human level
+Surrogate Objectives for Batch Policy Optimization in One-step Decision Making
+A Regularized Approach to Sparse Optimal Policy in Reinforcement Learning
+Learning dynamic polynomial proofs
+Reinforcement Learning: Past, Present, and Future Perspectives
+When to Trust Your Model: Model-Based Policy Optimization
+Limiting Extrapolation in Linear Approximate Value Iteration
+Loaded DiCE: Trading off Bias and Variance in Any-Order Score Function Gradient Estimators for Reinforcement Learning
+Learning to Control Self-Assembling Morphologies: A Study of Generalization via Modularity
+Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks
+Finite-Sample Analysis for SARSA with Linear Function Approximation
+Information-Theoretic Confidence Bounds for Reinforcement Learning
+Stochastic Bandits with Context Distributions
+Explicit Explore-Exploit Algorithms in Continuous State Spaces
+Learning Generalizable Device Placement Algorithms for Distributed Machine Learning
+Better Exploration with Optimistic Actor Critic
+Learning Compositional Neural Programs with Recursive Tree Search and Planning
+Guided Meta-Policy Search
+Maximum Expected Hitting Cost of a Markov Decision Process and Informativeness of Rewards
+Regret Minimization for Reinforcement Learning with Vectorial Feedback and Complex Objectives
+Mapping State Space using Landmarks for Universal Goal Reaching
+A Family of Robust Stochastic Operators for Reinforcement Learning
+Regret Bounds for Learning State Representations in Reinforcement Learning
+Successor Uncertainties: Exploration and Uncertainty in Temporal Difference Learning
+Multi-Agent Common Knowledge Reinforcement Learning
+The Option Keyboard: Combining Skills in Reinforcement Learning
+Symmetry-Based Disentangled Representation Learning requires Interaction with Environments
+Towards Optimal Off-Policy Evaluation for Reinforcement Learning with Marginalized Importance Sampling
+A Kernel Loss for Solving the Bellman Equation
+Control What You Can: Intrinsically Motivated Task-Planning Agent
+Gossip-based Actor-Learner Architectures for Deep Reinforcement Learning
+Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation
+Shaping Belief States with Generative Environment Models for RL
+Staying up to Date with Online Content Changes Using Reinforcement Learning for Scheduling
+Thompson Sampling for Multinomial Logit Contextual Bandits
+Weight Agnostic Neural Networks
+Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction
+From Complexity to Simplicity: Adaptive ES-Active Subspaces for Blackbox Optimization
+ Generalized Off-Policy Actor-Critic
+Experience Replay for Continual Learning
+Exploration Bonus for Regret Minimization in Discrete and Continuous Average Reward MDPs
+Imitation Learning from Observations by Minimizing Inverse Dynamics Disagreement
+DualDICE: Behavior-Agnostic Estimation of Discounted Stationary Distribution Corrections
+Finite-Time Performance Bounds and Adaptive Learning Rate Selection for Two Time-Scale Reinforcement Learning
+Learning in Generalized  Linear Contextual Bandits with Stochastic Delays
+Neural Proximal/Trust Region Policy Optimization Attains Globally Optimal Policy
+Learning with Rich Experience: Integration of Learning Paradigms
+Maximum Entropy Monte-Carlo Planning
+Tight Regret Bounds for Model-Based Reinforcement Learning with Greedy Policies
+Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control
+Hindsight Credit Assignment
+Machine Teaching of Active Sequential Learners
+Generalization of Reinforcement Learners with Working and Episodic Memory
+Biases for Emergent Communication in Multi-agent Reinforcement Learning
+Interval timing in deep reinforcement learning agents
+Learning to Predict Without Looking Ahead: World Models Without Forward Prediction
+The third Conversational AI workshop – today's practice and tomorrow's potential
+Semi-Parametric Efficient Policy Learning with Continuous Actions
+Adaptive Auxiliary Task Weighting for Reinforcement Learning
+Ease-of-Teaching and Language Structure from Emergent Communication
+Value Function in Frequency Domain and the Characteristic Value Iteration Algorithm
+Realtime Modeling and Anomaly Detection in Multivariate Data Streams
+Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition
+The Optimization Foundations of Reinforcement Learning
+Distributional Policy Optimization: An Alternative Approach for Continuous Control
